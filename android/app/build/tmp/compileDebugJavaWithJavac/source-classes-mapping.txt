@@ -1,0 +1,14 @@
+com/halalpedia/ReactNativeFlipper.java
+ com.halalpedia.ReactNativeFlipper
+ com.halalpedia.ReactNativeFlipper$1
+ com.halalpedia.ReactNativeFlipper$2
+ com.halalpedia.ReactNativeFlipper$2$1
+com/halalpedia/MainApplication.java
+ com.halalpedia.MainApplication
+ com.halalpedia.MainApplication$1
+com/halalpedia/BuildConfig.java
+ com.halalpedia.BuildConfig
+com/halalpedia/MainActivity.java
+ com.halalpedia.MainActivity
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
